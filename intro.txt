@@ -1,0 +1,6 @@
+Ke hoach hoc tap : 
+1. Hoc chac git
+2. On lai c++ 
+3. Thuc hanh nhieu project
+4. Hoc them docker va CI/CD
+5. Ren luyen ki nang teamwork

@@ -1,0 +1,15 @@
+Xin chao, toi ten la Tran Trung Kien
+Toi dang hoc tai Truong Dai hoc Nam Can tho
+Toi sinh ra va lon len o Kien gian
+Toi yeu thich cong Nghe va lap trinh
+Toi mong muon phat trien ky nang ban than
+
+So thich : 
+1. Doc sach
+2. Choi the thao 
+3. Lap trinh
+
+Ky nang : 
+1. C++
+2. Git 
+3. Lam viec nhom

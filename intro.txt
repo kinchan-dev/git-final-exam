@@ -1,4 +1,5 @@
 Hello,This is Tran trung kien
+Xin chao , toi la Tran trung kien
 1. Hoc chac git
 2. On lai c++ 
 3. Thuc hanh nhieu project

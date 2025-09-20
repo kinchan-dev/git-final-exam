@@ -1,0 +1,6 @@
+Tinh nang moi : Quan li nguoi dung
+1. Cho phep dang ky tai khoan
+2. Cho phep dang nhap he thong
+3. Quan ly thong tin ca nhan
+4. Phan quyen nguoi dung
+5. Ghi log hoat dong

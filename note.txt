@@ -1,0 +1,3 @@
+- Git giup quan li code hieu qua
+- Git ho tro lam viec nhom tot hon
+- Git giup theo doi lich su thay doi

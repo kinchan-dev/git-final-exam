@@ -1,4 +1,4 @@
-Ke hoach hoc tap : 
+Hello,This is Tran trung kien
 1. Hoc chac git
 2. On lai c++ 
 3. Thuc hanh nhieu project
